@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example1App</string>
+    <string name="enter_you_name">PLease Enter You Name :</string>
+    <string name="your_name_is">Your Name is</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_your_password">Please Enter Your Password</string>
+</resources>
